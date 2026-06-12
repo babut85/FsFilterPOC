@@ -1,0 +1,4 @@
+image: Visual Studio 2019
+build:
+  project: FsFilterPOC.sln.sln
+  options: /p:SignManifests=false /p:Configuration=Release
